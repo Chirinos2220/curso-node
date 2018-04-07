@@ -1,0 +1,21 @@
+{
+  "name": "curso",
+  "description": "curso node",
+  "main": "app js",
+  "authors": [
+    "chirinos2220 <chirinos.anselmo.jose.80@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Chirinos2220/curso-node",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
